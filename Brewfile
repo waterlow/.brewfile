@@ -39,6 +39,7 @@ brew gdbm
 brew gettext
 brew gibo
 brew git
+brew git-flow
 brew glib
 brew gobject-introspection
 brew graphviz
